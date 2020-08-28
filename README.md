@@ -25,4 +25,3 @@ models for new unseen data. Window of inflection concept was found to improve
 the performance of all neural network models implemented. Addition of Gaussian
 noise improved performance of Fully Connected Neural Networks and Convolutional
 Neural Networks.
-
